@@ -21,7 +21,7 @@ if word1 == word2:
     print (False)
 else:
     print (True)    
-"""
+
 
 #RETO 2 
 
@@ -32,7 +32,22 @@ for i in range (0,51):
     i = var0+var1
     var0 = var1
     var1 = i
+"""
+  
+#RETO 3
+
+
+
+for var in range (1,101):
+    divisores = 0
+    for i in range (1,101):
+        if var%i == 0:
+            divisores+=1
+    if divisores == 2:
+        print (f"{var} es un numero primo")
     
+
+ 
     
 
 
