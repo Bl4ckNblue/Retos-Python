@@ -13,7 +13,7 @@ for i in range (1,101):
 """
 
 #RETO 1 
-"""
+
 word1 = input("Ingresa una palabra: ")
 word2 = input("Ingresa una palabra: ")
 
@@ -21,8 +21,6 @@ if word1 == word2:
     print (False)
 else:
     print (True)    
-"""
 
-#RETO 2
 
 
