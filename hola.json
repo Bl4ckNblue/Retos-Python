@@ -1,0 +1,44 @@
+
+{
+    "objectid": "1234567890",
+    "owner": {
+      "objectid": "1234567891",
+      "name": "Juan Pérez",
+      "title": "Ingeniero",
+      "age": 30,
+      "address": {
+        "street": "Av. Arequipa 1234",
+        "city": "Lima",
+        "state": "Lima"
+      }
+    },
+    "contacts": [
+      {
+        "objectid": "1234567892",
+        "name": "María Sánchez",
+        "title": "Doctora",
+        "age": 25,
+        "address": {
+          "street": "Calle Tacna 5678",
+          "city": "Arequipa",
+          "state": "Arequipa"
+        }
+      },
+      {
+        "objectid": "1234567893",
+        "name": "Pedro López",
+        "title": "Abogado",
+        "age": 40,
+        "address": {
+          "street": "Jr. Ica 9012",
+          "city": "Cusco",
+          "state": "Cusco"
+        }
+      }
+    ],
+    "address": {
+      "street": "Plaza de Armas 1",
+      "city": "Trujillo",
+      "state": "La Libertad"
+    }
+  }
